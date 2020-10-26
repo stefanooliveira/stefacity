@@ -3,6 +3,11 @@ Gravador de áudio em Python 3. O sinal de entrada é o sinal analógico do tran
 
 
 Dependências:
-Python 3.8
-Tkinter : https://docs.python.org/3/library/tkinter.html
-Pyaudio : https://pypi.org/project/PyAudio/
+
+-Python 3.8
+
+
+-Tkinter : https://docs.python.org/3/library/tkinter.html
+
+
+-Pyaudio : https://pypi.org/project/PyAudio/
